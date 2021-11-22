@@ -1,0 +1,23 @@
+/* Put your style information here! */
+.bold {
+    font-weight: 600;
+}
+* {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+   }
+.all {
+    margin: 15%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.header {
+    margin-top: 5%;
+}
+.par {
+    margin-top: 2%
+}
+.image{
+    width: 100%;
+    height: auto;
+}
